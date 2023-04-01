@@ -2,7 +2,7 @@ interface Vic {
   name: string;
 
   // 可加可不加，可選的意思
-  age?: number;
+  // age?: number;
 
   readonly sex: "man" | "female";
 }
